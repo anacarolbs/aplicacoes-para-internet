@@ -3,5 +3,8 @@ li a {
 }
 
 body {
-    background: white url("images/background.png") no-repeat;
+    background-image: url("images/background.png");
+    background-size: 1000px 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
 }
