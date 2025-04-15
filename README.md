@@ -2,21 +2,21 @@
 Disciplina UDF
 
 
-Criação de Conta AWS Nível Gratuíto e Instância EC2
+1- Criação de Conta AWS Nível Gratuíto e Instância EC2
 
-1- Assista o vídeo explicativo sobre criação de conta
+- Assista o [vídeo](https://www.youtube.com/watch?v=W3Ro_HsTa9U) explicativo sobre criação de conta
 
-2- Crie sua própria conta gratuitamente
+- [Crie sua própria conta](https://aws.amazon.com/pt/s/dm/landing-page/start-your-free-trial/) gratuitamente
 
-3- Assista o tutorial sobre a criação de uma Instância EC2 e repita o processo, criando a sua própria
+- Assista o [tutorial](https://www.youtube.com/watch?v=86Tuwtn3zp0) sobre a criação de uma Instância EC2 e repita o processo, criando a sua própria
 
-4- Assista o tutorial e faça a criação de um repositório no GitHub para o projeto da aula
+2- Assista o [tutorial](https://www.youtube.com/watch?v=-RZ03WHqkaY) e faça a criação de um repositório no GitHub para o projeto da aula
 
-5- Clone o projeto para seu ambiente local de desenvolvimento (sugerido Ubuntu 24.04 LTS)
+3- Clone o projeto para seu ambiente local de desenvolvimento (sugerido Ubuntu 24.04 LTS)
 
-6- Instale o Django
+4- [Instale](https://docs.djangoproject.com/en/5.2/intro/install/) o Django
 
-7- Escreva seu primeiro aplicativo com Django
+5- Escreva seu primeiro aplicativo com Django
 - https://docs.djangoproject.com/en/5.2/intro/tutorial01/
 - https://docs.djangoproject.com/en/5.2/intro/tutorial02/
 - https://docs.djangoproject.com/en/5.2/intro/tutorial03/
@@ -26,8 +26,8 @@ Criação de Conta AWS Nível Gratuíto e Instância EC2
 - https://docs.djangoproject.com/en/5.2/intro/tutorial07/
 - https://docs.djangoproject.com/en/5.2/intro/tutorial08/
   
-8- Suba seu código para o repositório do GitHub
+6- Suba seu código para o repositório do GitHub
 
-9- Acesse sua Instância EC2, clone o repositório e rode seu projeto
+7- Acesse sua Instância EC2, clone o repositório e rode seu projeto
 
-10- Gere evidências do funcionamento correto da aplicação (print das páginas).
+8- Gere evidências do funcionamento correto da aplicação (print das páginas).
